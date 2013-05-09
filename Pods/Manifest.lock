@@ -1,0 +1,13 @@
+PODS:
+  - PonyDebugger (0.3.0):
+    - SocketRocket
+  - SocketRocket (0.2.0)
+
+DEPENDENCIES:
+  - PonyDebugger
+
+SPEC CHECKSUMS:
+  PonyDebugger: 72c2277c30f247390116ae328fe24082e0ed558e
+  SocketRocket: bca43a94bd9aac3a629df42c06843402399ee67b
+
+COCOAPODS: 0.18.1

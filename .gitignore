@@ -1,0 +1,5 @@
+xcuserdata
+ScrollViewTest/Pods/**
+ScrollViewTest/build/
+Pods/**
+build/**
